@@ -1,3 +1,9 @@
+/*
+* Curso de Engenharia de Software - UniEVANGÉLICA 
+* Disciplina de Programação Web 
+* Dev: Otavio Lemes de Oliveira 
+* DATA
+*/ 
 package rest;
 
 import java.util.List;
