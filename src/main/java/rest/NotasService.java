@@ -1,7 +1,7 @@
 /*
 * Curso de Engenharia de Software - UniEVANGÉLICA 
 * Disciplina de Programação Web 
-* Dev: Otavio Lemes de Oliveira 
+* Dev: Lucas de Oliveira Santos Soares 
 * DATA
 */ 
 package rest;
